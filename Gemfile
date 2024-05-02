@@ -21,11 +21,15 @@ gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-timeago", "~> 0.13.1"
+  gem "jekyll-asciidoc"
   gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-asciidoc'
-  gem 'jekyll-paginate-v2'
-  gem 'jekyll-archives'
-  gem 'jekyll-auto-authors'
+  gem "jekyll-paginate-v2"
+  gem "jekyll-archives"
+  gem "optimist"
+  gem "bigdecimal"
+  gem "nokogiri"
+  gem "rouge"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
