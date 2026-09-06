@@ -12,6 +12,8 @@ git branch -D _site_publish 2>/dev/null || true
 
 rm -rf _site
 mkdir _site
+cp -r _static/. _site/
+
 # Put bundles in a known path
 bundle config set path $HOME/.bundle
 # Update gems
@@ -55,3 +57,4 @@ git push --force origin _site_publish:master
 git checkout develop
 git branch -D _site_publish
 git branch -f master origin/master || true
+
