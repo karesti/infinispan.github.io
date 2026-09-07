@@ -2,6 +2,7 @@
 layout: hotrod-clients
 title: Hot Rod Clients
 subtitle: Hot Rod clients for connecting to Infinispan Server from your favourite language
+permalink: /hotrod-clients/
 ---
 
 ### Hot Rod Clients
