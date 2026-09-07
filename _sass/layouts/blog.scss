@@ -1,3 +1,5 @@
+@use "core/grid" as *;
+@use "palette" as *;
 .blog > .content {
   padding-top: 0;
 }

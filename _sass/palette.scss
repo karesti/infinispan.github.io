@@ -1,0 +1,32 @@
+// Combined color palette: core colors plus the project overrides.
+// Used by every partial imported after project-colors in main.scss,
+// so it exposes the core variables with the project values where overridden.
+
+@forward "core/colors" show
+  $red, $dark-red, $darker-red, $black, $white,
+  $light-blue, $dark-gray, $light-gray,
+  $accent-blue, $accent-purple, $accent-yellow, $accent-green, $accent-teal,
+  $storage-yellow, $storage-orange, $infrastructure-blue, $infrastructure-dark-blue,
+  $applicationdev-green, $applicationdev-dark-green,
+  $dark-orange, $yellow, $dark-yellow, $teal, $dark-teal,
+  $gray-0, $gray-1, $gray-2, $gray-3, $gray-4,
+  $grey-0, $grey-1, $grey-2, $grey-3, $grey-4, $dark-grey, $light-grey;
+
+// PROJECT color palette
+$blue: #589FC5;
+$dark-blue: #005D8F;
+$orange: #FF6400;
+$green: #E3EFD0;
+
+$text-base-color: #454545;
+
+// Overwrites link colors in /core/colors.scss
+$link : #005D8F;
+$link-hover : #005D8F;
+$link-visited : #005D8F;
+
+$link-dark-bg : #98D5E7;
+$link-visited-dark-bg : #98D5E7;
+$link-hover-dark-bg : #E49EFF;
+
+$copy-hover : #4695EB;
