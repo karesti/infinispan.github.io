@@ -4,7 +4,7 @@ title: " JGroups workshops in Rome and Berlin in November "
 permalink: /blog/:year/:month/:day/jgroups-workshops-in-rome-and-berlin-in
 date: '2017-09-27T06:04:00.000-07:00'
 author: ttarrant
-tags: [ " workshop", "jgroups" ]
+tags: [ "workshop", "jgroups" ]
 ---
 I'm happy to announce that I've revamped the JGroups workshop and I'll
 be teaching 2 workshops in November: Rome Nov 7-10 and Berlin Nov

@@ -4,7 +4,7 @@ title: Infinispan Node.js client supports authentication
 permalink: /blog/:year/:month/:day/infinispan-js-client
 date: '2021-06-29T12:00:00.000-00:00'
 author: karesti
-tags: [ "hotrod", "Node.js", "client", "javascript", "release" ]
+tags: [ "hotrod", "node.js", "client", "javascript", "release" ]
 ---
 
 == Node.js Client 0.9.0

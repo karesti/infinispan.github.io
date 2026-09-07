@@ -8,7 +8,7 @@ tags: [ "infinispan",
 "rest",
 "openapi",
 "16.1",
-"api",
+"API",
 ]
 ---
 

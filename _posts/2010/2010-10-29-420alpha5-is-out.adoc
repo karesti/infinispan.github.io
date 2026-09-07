@@ -4,7 +4,7 @@ title: 4.2.0.ALPHA5 is out!
 permalink: /blog/:year/:month/:day/420alpha5-is-out
 date: '2010-10-29T07:51:00.000-07:00'
 author: msurtani
-tags: [ " alpha" ]
+tags: [ "alpha" ]
 ---
 Yes, yet another alpha for Infinispan 4.2.0 codenamed _Ursus_.  What's
 new in this alpha?  A lot of bug fixes, reported by you the community,

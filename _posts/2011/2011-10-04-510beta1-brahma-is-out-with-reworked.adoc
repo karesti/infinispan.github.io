@@ -4,7 +4,7 @@ title: 5.1.0.BETA1 "Brahma" is out with reworked transaction handling
 permalink: /blog/:year/:month/:day/510beta1-brahma-is-out-with-reworked
 date: '2011-10-04T06:02:00.000-07:00'
 author: galder
-tags: [ " transactions" ]
+tags: [ "transactions" ]
 ---
 It's been a frantic couple of weeks at _chez_ Infinispan with loads of
 hacking, presentations preparation, team meetings...etc and we're now

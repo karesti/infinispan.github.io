@@ -4,7 +4,7 @@ title: Hotrod clients C++/C# 8.1.0.Final released!
 permalink: /blog/:year/:month/:day/hotrod-clients-cc-810final-released
 date: '2017-04-24T01:43:00.001-07:00'
 author: rigazilla
-tags: [ " c++", "release", "final", "c#" ]
+tags: [ "cpp", "release", "final", "csharp" ]
 ---
 Dears,
 

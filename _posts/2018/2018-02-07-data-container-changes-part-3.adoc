@@ -4,7 +4,7 @@ title: 'Data Container Changes Part 3 '
 permalink: /blog/:year/:month/:day/data-container-changes-part-3
 date: '2018-02-07T23:00:00.000-08:00'
 author: wburns
-tags: [ " off-heap", "eviction", "configuration" ]
+tags: [ "off-heap", "eviction", "configuration" ]
 ---
 Just over a year ago we detailed some improvements to the data
 container, including the availability of Off Heap storage in

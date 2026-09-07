@@ -4,7 +4,7 @@ title: KUBE_PING 0.9.3 released
 permalink: /blog/:year/:month/:day/kubeping-093-released
 date: '2017-05-23T06:22:00.004-07:00'
 author: slaskawiec
-tags: [ " kubernetes", "jgroups" ]
+tags: [ "kubernetes", "jgroups" ]
 ---
 I'm happy to announce that JGroups KUBE_PING 0.9.3 was released. The
 major changes include:

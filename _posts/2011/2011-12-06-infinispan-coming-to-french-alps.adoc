@@ -4,7 +4,7 @@ title: Infinispan coming to the French Alps!
 permalink: /blog/:year/:month/:day/infinispan-coming-to-french-alps
 date: '2011-12-06T05:52:00.001-08:00'
 author: galder
-tags: [ " event" ]
+tags: [ "event" ]
 ---
 http://www.alpesjug.fr/wp-content/themes/atahualpa/images/logo.png[image:http://www.alpesjug.fr/wp-content/themes/atahualpa/images/logo.png[image]]Remember
 that on the 15th of December, I'll be speaking at the

@@ -4,7 +4,7 @@ title: Infinispan 7.0.0.CR2 released!
 permalink: /blog/:year/:month/:day/infinispan-7
 date: '2014-10-21T04:39:00.000-07:00'
 author: gustavonalle
-tags: [ " spring","partition handling", "osgi", "release candidate" ]
+tags: [ "spring","partition handling", "osgi", "release candidate" ]
 ---
 === 
 

@@ -4,7 +4,7 @@ title: Querying Infinispan with the new .NET core client
 permalink: /blog/:year/:month/:day/dotnet-core-query
 date: '2022-01-21T12:00:00.000-00:00'
 author: rigazilla
-tags: [ "hotrod", ".Net Core", "client", "C#", "query", "query" ]
+tags: [ "hotrod", ".Net Core", "client", "csharp", "query", "query" ]
 ---
 
 Dear Infinispanners and .NET Core lovers,

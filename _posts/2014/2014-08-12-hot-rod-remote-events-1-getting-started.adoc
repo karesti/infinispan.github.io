@@ -4,7 +4,7 @@ title: 'Hot Rod Remote Events #1: Getting started'
 permalink: /blog/:year/:month/:day/hot-rod-remote-events-1-getting-started
 date: '2014-08-12T04:11:00.001-07:00'
 author: galder
-tags: [ " hotrod", "event", "remote events" ]
+tags: [ "hotrod", "event", "remote events" ]
 ---
 Shortly after the first Hot Rod server implementation was released in
 2010, https://issues.jboss.org/browse/ISPN-374[ISPN-374] was created

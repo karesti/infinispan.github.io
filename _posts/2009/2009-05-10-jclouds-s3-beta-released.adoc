@@ -4,7 +4,7 @@ title: jclouds-s3 beta released
 permalink: /blog/:year/:month/:day/jclouds-s3-beta-released
 date: '2009-05-10T22:09:00.000-07:00'
 author: acole
-tags: [ " jclouds", "s3" ]
+tags: [ "jclouds", "s3" ]
 thumbnail: http://1.bp.blogspot.com/_6tbw51Qly0U/Sge1OyaMntI/AAAAAAAAAAM/jsBcDN4W1Xg/s72-c/jclouds_logo.jpg
 ---
 http://1.bp.blogspot.com/_6tbw51Qly0U/Sge1OyaMntI/AAAAAAAAAAM/jsBcDN4W1Xg/s1600-h/jclouds_logo.jpg[image:http://1.bp.blogspot.com/_6tbw51Qly0U/Sge1OyaMntI/AAAAAAAAAAM/jsBcDN4W1Xg/s320/jclouds_logo.jpg[image]]

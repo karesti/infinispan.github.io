@@ -4,7 +4,7 @@ title: First Infinispan 5.1.0 'Brahma' candidate release is out!
 permalink: /blog/:year/:month/:day/first-infinispan-510-brahma-candidate
 date: '2011-12-06T06:22:00.001-08:00'
 author: galder
-tags: [ " cdi" ]
+tags: [ "cdi" ]
 ---
 We're getting close to releasing Infinispan 5.1 '_Brahma_', and today I
 have the pleasure of announcing the Infinispan 5.1.0.CR1, our first

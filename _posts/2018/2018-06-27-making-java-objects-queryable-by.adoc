@@ -4,7 +4,7 @@ title: Making Java objects queryable by Infinispan remote clients
 permalink: /blog/:year/:month/:day/making-java-objects-queryable-by
 date: '2018-06-27T04:46:00.000-07:00'
 author: galder
-tags: [ " remote query" ]
+tags: [ "remote query" ]
 ---
 
 == Making Java objects queryable by Infinispan remote clients

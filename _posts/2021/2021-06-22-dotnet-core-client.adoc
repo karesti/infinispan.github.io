@@ -4,7 +4,7 @@ title: An Infinispan .Net Core client over the Hot Rod protocol
 permalink: /blog/:year/:month/:day/infinispan-dotnet-core-client
 date: '2021-06-21T12:00:00.000-00:00'
 author: rigazilla
-tags: [ "hotrod", ".Net Core", "client", "C#" ]
+tags: [ "hotrod", ".Net Core", "client", "csharp" ]
 ---
 Dear Infinispanners,
 

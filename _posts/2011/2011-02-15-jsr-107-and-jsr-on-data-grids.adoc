@@ -4,7 +4,7 @@ title: JSR-107 and a JSR on data grids
 permalink: /blog/:year/:month/:day/jsr-107-and-jsr-on-data-grids
 date: '2011-02-15T18:00:00.000-08:00'
 author: msurtani
-tags: [ " jcp", "data grids" ]
+tags: [ "jcp", "data grids" ]
 ---
 In response to
 http://agoncal.wordpress.com/2011/02/11/java-ee-7-i-have-a-few-dreams/[Antonio

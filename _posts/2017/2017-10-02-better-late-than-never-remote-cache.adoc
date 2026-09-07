@@ -4,7 +4,7 @@ title: 'Better Late than Never: Remote Cache collections'
 permalink: /blog/:year/:month/:day/better-late-than-never-remote-cache
 date: '2017-10-02T09:40:00.001-07:00'
 author: ttarrant
-tags: [ " hotrod" ]
+tags: [ "hotrod" ]
 ---
 One of the main benefits of Infinispan extending the java.util.Map
 interface when we introduced our

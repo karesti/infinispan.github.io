@@ -4,7 +4,7 @@ title: Want to become a full-time dev on Infinispan?
 permalink: /blog/:year/:month/:day/want-to-become-full-time-dev-on
 date: '2010-09-16T07:06:00.000-07:00'
 author: msurtani
-tags: [ " recruit", "red hat" ]
+tags: [ "recruit", "red hat" ]
 ---
 From time to time, we do recruit active, valuable community members, to
 work on Infinispan and related projects on a full-time basis.  If you

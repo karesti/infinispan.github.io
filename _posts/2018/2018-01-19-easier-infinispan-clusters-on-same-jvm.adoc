@@ -4,7 +4,7 @@ title: Easier Infinispan clusters on same JVM with Infinispan 9.2
 permalink: /blog/:year/:month/:day/easier-infinispan-clusters-on-same-jvm
 date: '2018-01-19T00:52:00.001-08:00'
 author: galder
-tags: [ " clustering" ]
+tags: [ "clustering" ]
 ---
 Since Infinispan 5.2.0, Infinispan
 https://issues.jboss.org/browse/ISPN-2290[registers JMX MBeans by

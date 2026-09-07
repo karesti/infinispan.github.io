@@ -4,7 +4,7 @@ title: Infinispan Spring Boot Starter 2.1.1.Final and 1.0.4.Final are out!
 permalink: /blog/:year/:month/:day/infinispan-spring-boot-211final-and
 date: '2018-12-11T04:43:00.000-08:00'
 author: karesti
-tags: [ "release", "spring-session", "spring", "spring boot" ]
+tags: [ "release", "spring session", "spring", "spring boot" ]
 ---
 Dear Infinispan and Spring Boot users,
 

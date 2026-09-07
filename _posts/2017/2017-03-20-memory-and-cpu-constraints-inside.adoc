@@ -4,7 +4,7 @@ title: Memory and CPU constraints inside a Docker Container
 permalink: /blog/:year/:month/:day/memory-and-cpu-constraints-inside
 date: '2017-03-20T01:40:00.000-07:00'
 author: slaskawiec
-tags: [ " docker", "openshift", "kubernetes" ]
+tags: [ "docker", "openshift", "kubernetes" ]
 ---
 In one of the
 https://infinispan.org/blog/2016/07/improved-infinispan-docker-image.html[previous

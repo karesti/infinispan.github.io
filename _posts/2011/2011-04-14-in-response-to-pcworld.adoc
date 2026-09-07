@@ -4,7 +4,7 @@ title: In response to PCWorld...
 permalink: /blog/:year/:month/:day/in-response-to-pcworld
 date: '2011-04-14T11:16:00.000-07:00'
 author: msurtani
-tags: [ " jcp", "data grids", "jsr 107", "standards" ]
+tags: [ "jcp", "data grids", "jsr 107", "standards" ]
 ---
 PCWorld has published
 http://www.pcworld.com/businesscenter/article/225190/red_hat_cache_move_sparks_standards_spat.html[an

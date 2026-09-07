@@ -4,7 +4,7 @@ title: 'Hot Rod Remote Events #3: Customizing events'
 permalink: /blog/:year/:month/:day/hot-rod-remote-events-3-customizing
 date: '2014-09-17T04:30:00.005-07:00'
 author: galder
-tags: [ " hotrod", "event", "remote events" ]
+tags: [ "hotrod", "event", "remote events" ]
 ---
 This blog post is the third in a series that looks at the forthcoming
 Hot Rod Remote Events functionality included in Infinispan 7.0. In the

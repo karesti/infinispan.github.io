@@ -4,7 +4,7 @@ title: JSR 347 in 2013
 permalink: /blog/:year/:month/:day/jsr-347-in-2013
 date: '2013-01-04T08:59:00.001-08:00'
 author: msurtani
-tags: [ " jcp", "data grids", "jsr 347", "standards" ]
+tags: [ "jcp", "data grids", "jsr 347", "standards" ]
 ---
 Happy new year, everyone.
 

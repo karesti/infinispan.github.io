@@ -4,7 +4,7 @@ title: Infinispan 4.1.0 "Radegast" 2nd release candidate just released!
 permalink: /blog/:year/:month/:day/infinispan-410-radegast-2nd-release
 date: '2010-07-20T14:23:00.000-07:00'
 author: msurtani
-tags: [ " radegast", "release candidate" ]
+tags: [ "radegast", "release candidate" ]
 ---
 I've just released Infinispan 4.1.0.CR2, codenamed _Radegast_.  Why is
 this release so important?  Because it is very close to the final

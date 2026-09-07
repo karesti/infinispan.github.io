@@ -4,7 +4,7 @@ title: Distributed Streams
 permalink: /blog/:year/:month/:day/distributed-streams
 date: '2015-09-07T00:11:00.000-07:00'
 author: infinispan
-tags: [ " java 8", "streams", "API" ]
+tags: [ "java 8", "streams", "API" ]
 ---
 Now that Infinispan supports Java 8, we can take full advantage of some
 of the new features.  One of the big features of Java 8 is the new

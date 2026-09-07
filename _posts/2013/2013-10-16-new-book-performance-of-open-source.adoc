@@ -4,7 +4,7 @@ title: 'New book: Performance of Open Source Applications, with a chapter on Inf
 permalink: /blog/:year/:month/:day/new-book-performance-of-open-source
 date: '2013-10-16T23:30:00.001-07:00'
 author: msurtani
-tags: [ " performance", "book" ]
+tags: [ "performance", "book" ]
 ---
 == _*NOTE:* Cross-posted from http://manik.surtani.org/2013/10/new-book-performance-of-open-source.html[Manik's personal blog]_
 

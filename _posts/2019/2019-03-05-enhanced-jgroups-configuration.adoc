@@ -4,7 +4,7 @@ title: Enhanced JGroups configuration
 permalink: /blog/:year/:month/:day/enhanced-jgroups-configuration
 date: '2019-03-05T05:27:00.000-08:00'
 author: ttarrant
-tags: [ " configuration", "jgroups" ]
+tags: [ "configuration", "jgroups" ]
 ---
 Infinispan uses http://www.jgroups.org/[JGroups] as its underlying
 clustering layer. In order to configure the finer details of clustering

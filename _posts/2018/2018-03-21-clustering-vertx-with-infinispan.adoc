@@ -4,7 +4,7 @@ title: Clustering Vert.x with Infinispan
 permalink: /blog/:year/:month/:day/clustering-vertx-with-infinispan
 date: '2018-03-21T13:08:00.000-07:00'
 author: karesti
-tags: [ " vert.x" ]
+tags: [ "vert.x" ]
 thumbnail: https://4.bp.blogspot.com/-wNPoumRNOZU/WqqNdMdm6mI/AAAAAAAACNM/Nvrirnuw-ok_BfS8Gh7DaomoTGhdEwk-ACLcBGAs/s72-c/dummyApp.png
 ---
 Welcome to the third in a multi-part series of blog posts about creating

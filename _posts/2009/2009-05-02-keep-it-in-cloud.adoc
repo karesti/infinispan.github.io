@@ -4,7 +4,7 @@ title: Keep it in the cloud
 permalink: /blog/:year/:month/:day/keep-it-in-cloud
 date: '2009-05-02T13:47:00.000-07:00'
 author: acole
-tags: [ " data grids", "jclouds", "ec2", "s3", "aws" ]
+tags: [ "data grids", "jclouds", "ec2", "s3", "aws" ]
 ---
 Corporate slaves often spend months of paper work only to find their
 machine obsolete before its powered on.   Forward thinking individuals

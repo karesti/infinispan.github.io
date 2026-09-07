@@ -4,7 +4,7 @@ title: Infinispan 9.0.0.Beta2 and 8.2.6.Final are out!
 permalink: /blog/:year/:month/:day/infinispan-900beta2-and-826final-are-out
 date: '2017-01-24T05:50:00.002-08:00'
 author: galder
-tags: [ " beta", "release", "stable" ]
+tags: [ "beta", "release", "stable" ]
 ---
 It's release day at Infinispan HQ and we've just released a couple of
 new versions:

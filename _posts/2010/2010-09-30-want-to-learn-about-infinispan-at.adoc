@@ -4,7 +4,7 @@ title: Want to learn about Infinispan at Devoxx 2010?
 permalink: /blog/:year/:month/:day/want-to-learn-about-infinispan-at
 date: '2010-09-30T09:59:00.000-07:00'
 author: msurtani
-tags: [ " data-as-a-service", "devoxx", "infinispan" ]
+tags: [ "data-as-a-service", "devoxx", "infinispan" ]
 ---
 Yes, I will be speaking at the
 http://www.devoxx.com/display/Devoxx2K10/Home[Devoxx] conference this

@@ -5,7 +5,7 @@ permalink: /blog/:year/:month/:day/how-to-configure-infinispan-with
   AS 7 vs. Tomcat 7
 date: '2012-05-24T06:55:00.002-07:00'
 author: mgencur
-tags: [ " database", "transactions", "c3p0", "as7", "cache store", "tomcat" ]
+tags: [ "database", "transactions", "c3p0", "as7", "cache store", "tomcat" ]
 ---
 
 Migrating projects from one container to another is often problematic.

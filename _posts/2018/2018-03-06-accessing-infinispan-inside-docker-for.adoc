@@ -4,7 +4,7 @@ title: Accessing Infinispan inside Docker for Mac
 permalink: /blog/:year/:month/:day/accessing-infinispan-inside-docker-for
 date: '2018-03-06T03:00:00.000-08:00'
 author: galder
-tags: [ " docker", "mac" ]
+tags: [ "docker", "mac" ]
 ---
 Connecting to Infinispan instances that run inside Docker for Mac using
 the Java Hot Rod client can be tricky. In this blog post we'll be

@@ -4,7 +4,7 @@ title: Quick start Infinispan on Kubernetes
 permalink: /blog/:year/:month/:day/quick-start-infinispan-on-kubernetes
 date: '2018-11-19T04:14:00.001-08:00'
 author: galder
-tags: [ " kubernetes", "minikube" ]
+tags: [ "kubernetes", "minikube" ]
 ---
 Last week we showed you
  https://infinispan.org/blog/2018/11/the-fastest-path-to-running-infinispan.html[how

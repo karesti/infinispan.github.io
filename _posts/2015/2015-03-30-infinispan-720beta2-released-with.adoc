@@ -4,7 +4,7 @@ title: Infinispan 7.2.0.Beta2 released with better default configuration handlin
 permalink: /blog/:year/:month/:day/infinispan-720beta2-released-with
 date: '2015-03-30T07:18:00.000-07:00'
 author: galder
-tags: [ " beta","release", "near caching", "configuration" ]
+tags: [ "beta","release", "near caching", "configuration" ]
 ---
 We've just released Infinispan 7.2.0.Beta2 which adds better support for
 determining which configuration options have been defined by the user

@@ -4,7 +4,7 @@ title: 'A different kind of template: wildcards'
 permalink: /blog/:year/:month/:day/a-different-kind-of-template-wildcards
 date: '2018-02-02T00:24:00.001-08:00'
 author: ttarrant
-tags: [ " jcache", "configuration" ]
+tags: [ "jcache", "configuration" ]
 ---
 Infinispan's configuration templates are an extremely flexible way to
 create multiple caches using the same configuration. Configuration

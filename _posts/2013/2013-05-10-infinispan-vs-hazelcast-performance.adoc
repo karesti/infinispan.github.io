@@ -4,7 +4,7 @@ title: Infinispan vs Hazelcast Performance
 permalink: /blog/:year/:month/:day/infinispan-vs-hazelcast-performance
 date: '2013-05-10T08:23:00.000-07:00'
 author: galder
-tags: [ " performance" ]
+tags: [ "performance" ]
 ---
 https://bitbucket.org/ssmoot[Sam Smoot] has recently compared the
 performance of Infinispan versus Hazelcast both with default cache

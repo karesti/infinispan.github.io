@@ -4,7 +4,7 @@ title: 'Introducing the JBoss Data Grid: Infinispan, with support!'
 permalink: /blog/:year/:month/:day/introducing-jboss-data-grid-infinispan
 date: '2012-04-13T09:31:00.002-07:00'
 author: msurtani
-tags: [ " jdg", "announcement" ]
+tags: [ "jdg", "announcement" ]
 ---
 To many who are familiar with http://www.redhat.com/[Red Hat]'s model of
 unsupported upstream projects with supported, heavily tested and

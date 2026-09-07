@@ -4,7 +4,7 @@ title: The Grouping API
 permalink: /blog/:year/:month/:day/grouping-api
 date: '2011-06-20T04:37:00.000-07:00'
 author: pmuir
-tags: [api, grouping]
+tags: [API, grouping]
 ---
 Infinispan 5 CR4 (and above) includes a new Grouping API. You can
 http://community.jboss.org/wiki/TheGroupingAPI[read more in the

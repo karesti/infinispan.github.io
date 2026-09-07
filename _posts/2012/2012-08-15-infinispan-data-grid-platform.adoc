@@ -4,7 +4,7 @@ title: Infinispan - Data Grid Platform
 permalink: /blog/:year/:month/:day/infinispan-data-grid-platform
 date: '2012-08-15T01:32:00.001-07:00'
 author: msurtani
-tags: [ " infinispan", "book" ]
+tags: [ "infinispan", "book" ]
 ---
 http://www.packtpub.com/sites/default/files/8222OS_Infinispan%20Data%20Grid%20Platformcov.jpg[image:http://www.packtpub.com/sites/default/files/8222OS_Infinispan%20Data%20Grid%20Platformcov.jpg[image,width=259,height=320]]For
 the past few months, I have been working with prominent technology

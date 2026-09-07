@@ -4,7 +4,7 @@ title: Infinispan 8.0.0.Beta2
 permalink: /blog/:year/:month/:day/infinispan-800beta2
 date: '2015-07-24T14:47:00.000-07:00'
 author: infinispan
-tags: [ " grouping and aggregation" ]
+tags: [ "grouping and aggregation" ]
 ---
 [[docs-internal-guid-2f1c2664-c1ee-67f1-69b5-ea5cb27d13df]]
 Dear Infinispan Community,

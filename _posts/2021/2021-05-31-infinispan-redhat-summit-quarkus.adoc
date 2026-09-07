@@ -4,7 +4,7 @@ title: Infinispan (Red Hat Data Grid) featured in Red Hat Developers
 permalink: /blog/:year/:month/:day/infinispan-redhat-summit-quarkus
 date: '2021-05-31T12:00:00.000-00:00'
 author: karesti
-tags: [ "redhat", "datagrid", "quarkus", "cross-site-replication"]
+tags: [ "redhat", "datagrid", "quarkus", "cross site replication"]
 ---
 
 Dear Infinispan Community,

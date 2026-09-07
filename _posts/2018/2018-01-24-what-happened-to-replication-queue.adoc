@@ -4,7 +4,7 @@ title: What happened to the replication queue?
 permalink: /blog/:year/:month/:day/what-happened-to-replication-queue
 date: '2018-01-24T06:00:00.000-08:00'
 author: galder
-tags: [ " replication queue" ]
+tags: [ "replication queue" ]
 ---
 Recently I saw an Infinispan user that was having issues using the
 replication queue, a clustering functionality that had been part of

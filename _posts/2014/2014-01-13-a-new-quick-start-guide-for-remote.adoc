@@ -4,7 +4,7 @@ title: A new quick start guide for remote queries over Hot Rod
 permalink: /blog/:year/:month/:day/a-new-quick-start-guide-for-remote
 date: '2014-01-13T00:31:00.002-08:00'
 author: infinispan
-tags: [ " jdg", "hotrod", "quick start", "cpp-client", "remote query" ]
+tags: [ "jdg", "hotrod", "quick start", "cpp-client", "remote query" ]
 ---
 Following up on the previous post on
 https://infinispan.org/blog/2013/09/embedded-and-remote-queries-in.html[Infinispan

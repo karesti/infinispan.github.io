@@ -4,7 +4,7 @@ title: Infinispan gains another team member
 permalink: /blog/:year/:month/:day/infinispan-gains-another-team-member
 date: '2010-12-14T04:36:00.000-08:00'
 author: msurtani
-tags: [ " community" ]
+tags: [ "community" ]
 ---
 Infinispan's been fortunate enough to have Pete Muir - of
 http://seamframework.org/[Seam], http://seamframework.org/Weld[Weld] and

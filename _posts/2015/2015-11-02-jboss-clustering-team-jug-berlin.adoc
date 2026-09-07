@@ -4,7 +4,7 @@ title: JBoss Clustering Team @ JUG Berlin Brandenburg
 permalink: /blog/:year/:month/:day/jboss-clustering-team-jug-berlin
 date: '2015-11-02T22:59:00.001-08:00'
 author: ttarrant
-tags: [ " JUGs", "event", "jgroups", "wildfly" ]
+tags: [ "JUGs", "event", "jgroups", "wildfly" ]
 ---
 The entire JBoss Clustering Team will be at the Berlin-Brandenburg JUG
 on Thursday, 19th November
