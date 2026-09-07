@@ -12,8 +12,6 @@ tags: [ "infinispan",
 ]
 ---
 
----
-
 = Exploring the New OpenAPI-Compliant REST API v3 in Infinispan 16.1
 
 With Infinispan 16.1 "Polly Want a Pilsner", we introduce the OpenAPI-compliant v3 REST API, bringing modern API standards to Infinispan.
